@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is the seventh file 
 this is done by basha
+=======
+sdfsd
+>>>>>>> david

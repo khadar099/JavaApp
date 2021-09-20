@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 nesjflja
 sadlfkjkalks;fj
 asdl;kfkjasf
 w file added..
 slkjlkasdf
 
+=======
+new file added..
+>>>>>>> david
 reverted and added a new change
